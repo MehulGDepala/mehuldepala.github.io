@@ -6,6 +6,5 @@ title: Problems
 sidebar:
   nav: "personal"
 ---
-# General Outline
 
-This is a collection of problems
+This is a collection of worked problem solutions from textbooks. On-going work-in-progress.

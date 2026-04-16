@@ -6,6 +6,5 @@ title: Personal Main Page
 sidebar:
   nav: "personal"
 ---
-# General Outline
 
-This is a collection of personal items 
+This is a collection of personal book reviews, lecture notes and problem solutions of textbooks.

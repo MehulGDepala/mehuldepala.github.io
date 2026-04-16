@@ -6,6 +6,6 @@ title: Reviews
 sidebar:
   nav: "personal"
 ---
-# Reviews
 
-This is a collection of my reviews
+
+This is a collection of my reviews from books, articles and other such things.

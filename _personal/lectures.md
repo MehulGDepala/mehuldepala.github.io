@@ -6,6 +6,6 @@ title: Lecture Notes
 sidebar:
   nav: "personal"
 ---
-# General Outline
 
-This is a collection of lectures
+
+This is an on-going project to upload lecture notes regarding some Physics textbooks. 
