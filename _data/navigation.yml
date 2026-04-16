@@ -9,3 +9,13 @@ main:
     url: /personal/personal/
   - title: "Contact"
     url: /contact/
+
+personal:
+  - title: "Personal"
+    children:
+      - title: "Reviews"
+        url: /personal/reviews/
+      - title: "Lecture Notes"
+        url: /personal/lectures/
+      - title: "Problems"
+        url: /personal/problems/
