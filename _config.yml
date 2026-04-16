@@ -13,11 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Mehul Gunvant Depala
+title: Portfolio
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Particle Physics PhD Student | University of Liverpool
-twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
 search: true
@@ -56,23 +55,16 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Mehul Gunvant Depala"
+  avatar : "/assets/images/4601818 PXL_20251217_094106762.jpg"
+  bio    : "Particle Physics PhD Student"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://mehulgdepala.github.io/portfolio"    
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
-
+      url: "https://mehulgdepala.github.io"
 footer:
   links:
     - label: "Twitter"
