@@ -3,23 +3,59 @@ layout: single
 permalink: /cv/
 title: CV
 ---
-<h1>Your Name</h1>
+
 <p>
-  your@email.com · Liverpool, UK · <a href="#">GitHub</a>
+  [M.G.Depala@liverpool.ac.uk](mailto:M.G.Depala@liverpool.ac.uk) · University of Liverpool 
 </p>
 
 <div class="cv">
 
   <!-- Profile -->
-  <div class="cv-section">Profile</div>
+  <div class="cv-section">Research Interests</div>
   <div class="cv-content">
-    <p>
-      Short summary about you. Keep it concise and focused.
-    </p>
+    <ul>
+        <li>BSM Physics</li>
+        <li>Machine learning</li>
+        <li>QFT</li>
+    </ul>
   </div>
 
-  <!-- Experience -->
-  <div class="cv-section">Experience</div>
+  <!-- Education -->
+  <div class="cv-section">Education</div>
+  <div class="cv-content">
+    <div class="cv-item-header">
+      <span>PhD Particle Physics — University of Liverpool</span>
+      <span>2023–ongoing</span>
+    </div>
+    <div class="cv-item-header">
+      <span>MSc Theoretical Physics (QFFF) — Imperial College London (Merit)</span>
+      <span>2018–2020</span>
+    </div>
+    <div class="cv-item-header">
+      <span>BSc Theoretical Physics — Queen Mary, Univerisity of London (First-class with Honours)</span>
+      <span>2015–2018</span>
+    </div>
+  </div>
+
+<!-- Teaching -->
+  <div class="cv-section">Teaching</div>
+  <div class="cv-content">
+    <div class="cv-item-header">
+      <span>Degree — University</span>
+      <span>2017–2020</span>
+    </div>
+  </div>
+  <!-- Skills -->
+  <div class="cv-section">Skills</div>
+  <div class="cv-content">
+    <p>Python · Machine Learning · Data Analysis</p>
+  </div>
+
+</div>
+
+
+  <!-- Work Experience -->
+  <div class="cv-section"> Work Experience</div>
   <div class="cv-content">
 
     <div class="cv-item">
@@ -45,19 +81,3 @@ title: CV
 
   </div>
 
-  <!-- Education -->
-  <div class="cv-section">Education</div>
-  <div class="cv-content">
-    <div class="cv-item-header">
-      <span>Degree — University</span>
-      <span>2017–2020</span>
-    </div>
-  </div>
-
-  <!-- Skills -->
-  <div class="cv-section">Skills</div>
-  <div class="cv-content">
-    <p>Python · Machine Learning · Data Analysis</p>
-  </div>
-
-</div>
