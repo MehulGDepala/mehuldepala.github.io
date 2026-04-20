@@ -6,7 +6,7 @@ title: CV
 ---
 
 <p>
-  [M.G.Depala@liverpool.ac.uk](mailto:M.G.Depala@liverpool.ac.uk) · University of Liverpool 
+  <a href="mailto:M.G.Depala@liverpool.ac.uk">M.G.Depala@liverpool.ac.uk</a> · University of Liverpool 
 </p>
 
 <div class="cv">
@@ -68,9 +68,9 @@ title: CV
     </div>
 
     <ul>
-      <li>Computational Statistical Data Analysis for Physicists</li>
+      <li>Computational Physics Data Analysis with Statistics</li>
       <li>Particle Physics and Nuclear Physics</li>
-      <li>Quantum Mechanics</li>
+      <li>Quantum and Atomic Physics</li>
     </ul>
   </div>
 
@@ -78,7 +78,7 @@ title: CV
   <!-- Skills -->
   <div class="cv-section">Skills</div>
   <div class="cv-content">
-    <p>Python · Machine Learning · Data Analysis</p>
+    <p>C++ · Python · Machine Learning · Data Analysis</p>
   </div>
 
 </div>
