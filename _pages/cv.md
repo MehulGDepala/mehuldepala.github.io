@@ -84,6 +84,6 @@ title: CV
   <!-- CV -->
   <div class="cv-section">CV</div>
   <div class="cv-content">
-    <p> <a href="/assets/documents/mehul_cv.pdf">Curriculum Vitae</a></p>
+    <p> <a href="{{ '/assets/documents/mehul_cv.pdf' | relative_url }}">Curriculum Vitae</a></p>
   </div>
 
