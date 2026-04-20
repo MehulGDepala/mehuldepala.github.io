@@ -3,4 +3,6 @@ layout: single
 permalink: /publications/
 title: Publications
 ---
-# To be completed
+
+
+Work in progress
